@@ -1,0 +1,22 @@
+201201,Mike Long,0,ML,N/A
+201202,Barbara Welcome,1,BW,N/A
+201203,Amardeep Singh,0,AS,N/A
+201204,Manoo Smith,0,MS,N/A
+201205,Daee Jin,0,DJ,N/A
+201206,Zhuo Wang,0,ZW,N/A
+201207,Ann Sanderson,1,AS,Wed Oct 04 15:23:15 NZDT 2017
+201208,Kimberly Gibbs,1,KG,N/A
+201209,Ayako Nakayama,1,AN,N/A
+201210,Nikhil Singh,1,NS,N/A
+201211,Steve Lane,1,SL,N/A
+201212,Java King,1,JK,N/A
+201213,Susan Sun,1,SS,N/A
+201214,Cyrus Jin,1,CJ,N/A
+201215,Wing Wang,1,WW,N/A
+201216,Lin Wingard,1,LW,N/A
+201217,Sam Sean,1,SS,N/A
+201218,Baba Meng,1,BM,N/A
+201219,Mike King,1,MK,N/A
+201220,Jayson Cocks,1,JC,Wed Oct 18 10:07:09 NZDT 2017
+2110012,Kevin Shedlock,1,admin123,Wed Oct 18 16:18:02 NZDT 2017
+123,Johm Doe,0,password1,N/A
